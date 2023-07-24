@@ -1,5 +1,8 @@
 # course-vue
 
+![image](https://github.com/alex-grsm/course-vue/assets/17318047/4e288166-02f2-4582-b3dd-8a396a815fff)
+
+
 ## Project setup
 ```
 npm install
